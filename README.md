@@ -1,4 +1,4 @@
-![image](https://github.com/natanaelbalbo/natanaelbalbo/assets/145400090/de1d77be-1708-4dd9-9909-67f97d0b0301)## Hi! I'm Natanael Balbo ... Welcome to my GitHub!
+## Hi! I'm Natanael Balbo ... Welcome to my GitHub!
 
 ### 🛠 Main Skills:
 <div style="display: inline_block"><br>
