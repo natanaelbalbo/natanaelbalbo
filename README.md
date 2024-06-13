@@ -7,7 +7,7 @@
   <img align="center" alt="natan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="natan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="natan-Js" height="30" width="40" src="https://icons8.com.br/icon/105446/delphi-ide">
-  <img align="center" alt="natan-Js" height="30" width="40" src="https://www.svgrepo.com/show/376337/node-js.svg>
+  <img align="center" alt="natan-Js" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=webp&w=256">
   <img align="center" alt="natan-Js" height="30" width="40" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000>
   <img align="center" alt="natan-Js" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=webp&w=256">
   <img align="center" alt="natan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
