@@ -22,4 +22,4 @@ DevOps / Infra
 
 Ferramentas e Extras
 
-<div> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/> <img height="40" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/> </div>
+<div> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/> <img height="40" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/> </div>
