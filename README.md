@@ -19,7 +19,7 @@ I contribute across the development lifecycle, from gathering requirements and b
   <img height="40" alt="FastAPI" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
   <img height="40" alt="Django" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
   <img height="40" alt="Node.js" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img height="40" alt="Express" title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img height="40" alt="Express" title="Express" src="https://skillicons.dev/icons?i=express&theme=dark" />
   <img height="40" alt="Delphi" title="Delphi" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-plain.svg" />
 </div>
 
